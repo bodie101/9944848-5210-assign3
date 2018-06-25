@@ -1,0 +1,50 @@
+/*
+ Theme Name:   enigma Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  enigma Child Theme
+ Author:       Bodie Keys 
+ Author URI:   http://example.com
+ Template:     enigma
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  enigma-child
+*/
+
+
+.enigma_service {
+    background-color: #333;
+}
+
+.enigma_heading_title h3  {
+    color: #808080 !important;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+}
+
+.enigma_service_detail p {
+    color: #A9A9A9 !important; 
+}
+
+.enigma_blog_area {
+    background-color: #333; 
+}
+
+.enigma_project_section {
+    background-color: #ddd; 
+}
+
+.enigma_blog_thumb_wrapper h2 a, {
+    color: #333; 
+}
+
+
+.navigation_menu {
+    background-color: #333 !important;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #A9A9A9 !important;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important; 
+}
+
